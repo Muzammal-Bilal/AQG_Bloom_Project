@@ -106,7 +106,7 @@ The notebook follows a clear 15-section structure:
 | GPU | T4 or better (free on Colab) |
 | RAM | 12 GB+ |
 | Storage | 3 GB on Google Drive |
-| Total runtime | ~2 hours |
+| Total runtime | ~5 hours |
 
 ## Datasets
 
