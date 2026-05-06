@@ -62,7 +62,7 @@ AQG_Bloom_Project/
 
 ### Option 1: Google Colab (Recommended)
 
-1. Click here to open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/AQG_Bloom_Project/blob/main/AQG_Bloom_Project_CLEAN.ipynb)
+1. Click here to open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Muzammal-Bilal/AQG_Bloom_Project/blob/main/AQG_Bloom_Project_CLEAN.ipynb)
 2. Enable GPU: `Runtime → Change runtime type → T4 GPU`
 3. Run cells sequentially (mount Google Drive when prompted)
 
@@ -70,7 +70,7 @@ AQG_Bloom_Project/
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/AQG_Bloom_Project.git
+git clone https://github.com/Muzammal-Bilal/AQG_Bloom_Project.git
 cd AQG_Bloom_Project
 
 # Install dependencies
@@ -157,8 +157,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Contact
 
 For questions or collaborations:
-- Email: [your-email@example.com]
-- Issues: [Open an issue](https://github.com/YOUR_USERNAME/AQG_Bloom_Project/issues)
+- Email: MUZAMMALBILAL36@gmail.com
+- Issues: [Open an issue](https://github.com/Muzammal-Bilal/AQG_Bloom_Project/issues)
 
 ---
 
