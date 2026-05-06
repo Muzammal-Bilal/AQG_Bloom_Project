@@ -6,8 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 > **Bloom-Conditioned Question Generation with T5 and DistilBERT Auto-Labeling**  
-> Submitted to IEEE ICET 2026 (21st International Conference on Emerging Technologies)  
-> GIKI, Topi, Pakistan — November 18-19, 2026
+> Submitted to IEEE IBCAST 2026 (23rd IBCAST-2026: International Bhurban Conference on Applied Sciences & Technology)  
 
 ## Overview
 
@@ -130,11 +129,11 @@ If you use this work, please cite:
 @inproceedings{bilal2026aqg,
   author    = {Bilal, Muzammal and Taseer, Suleman},
   title     = {Bloom-Conditioned Question Generation with T5 and DistilBERT Auto-Labeling},
-  booktitle = {Proceedings of the 21st International Conference on Emerging Technologies (ICET)},
+  booktitle = {Proceedings of the 23rd IBCAST-2026: International Bhurban Conference on Applied Sciences & Technology},
   year      = {2026},
   organization = {IEEE},
-  address   = {GIKI, Topi, Pakistan},
-  month     = {November}
+  
+  
 }
 ```
 
